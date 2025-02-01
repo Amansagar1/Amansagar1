@@ -1,77 +1,99 @@
 # Kumar Aman Sagar 👨‍💻
+[![Portfolio](https://img.shields.io/badge/Portfolio-Available-brightgreen)](https://www.johndoe.com)  
+**Full Stack MERN Developer | Building Scalable Web Applications & IoT Solutions**
 
-## Full Stack MERN Developer | Building Scalable Web Applications & IoT Solutions
-
-I am an experienced Full Stack Developer specializing in **MERN stack** technologies. With a passion for building high-quality, scalable, and efficient web applications, I focus on **API integration**, **microservices**, and **real-time communication**.
+I’m an experienced **Full Stack MERN Developer** with a strong background in **API integration**, **microservices**, and **real-time systems**. I specialize in building scalable web applications and optimizing system performance. With a passion for clean code and teamwork, I’m always exploring the latest technologies to solve complex challenges.
 
 ---
 
-### 🌱 **Currently Learning & Working On**
-- Enhancing skills in **React.js**, **Node.js**, and **Microservices**.
-- Developing real-time applications and exploring **IoT solutions**.
-- Continuously improving my coding practices and exploring new web development technologies.
+### 🏆 **What I Do**
+
+- Develop full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
+- Build scalable **microservices** and integrate APIs seamlessly.
+- Focus on **real-time communication** and **IoT solutions**.
+- Continuously refine development practices and improve system efficiency.
+
+---
+
+### 🌱 **Currently Working On**
+
+- Building a **real-time messaging app** using **Socket.IO** and **React.js**.
+- Enhancing **IoT solutions** to integrate with scalable cloud-based architectures.
+- Exploring **Machine Learning** techniques to improve application intelligence.
 
 ---
 
 ### 💼 **Work Experience**
 
 #### **Software Developer | Digital-Sync Solution or Services**  
-_March 2024 – Present_  
-- Led the development of scalable software solutions utilizing **microservices** and **API handling** to improve system efficiency and communication.
-- Collaborated with cross-functional teams to ensure timely delivery of high-quality results.
+_March 2024 – Present_
+- Developed **scalable solutions** using **microservices** architecture and **API integration**, boosting overall system performance.
+- Worked with cross-functional teams to drive the development of web applications and ensure seamless deployment.
 
 #### **Web Developer Intern | Achintya Solution**  
-_Oct 2023 – Apr 2024_  
-- Worked on 5 real-time projects, contributing to a 30% boost in development efficiency.
-- Implemented web technologies like **HTML**, **CSS**, and **JavaScript** to streamline project development, reducing completion time by 25%.
+_Oct 2023 – Apr 2024_
+- Contributed to the development of 5 real-time projects, enhancing development efficiency by **30%**.
+- Implemented and optimized frontend solutions using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
 ### 🛠️ **Technologies & Tools**
 
 #### **Frontend**  
-- **React.js**, **Tailwind CSS**, **Bootstrap**, **Next.js**, **Typescript**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
+- **React.js**, **Tailwind CSS**, **Next.js**, **TypeScript**, **Redux**, **Sass**
 
 #### **Backend**  
-- **Node.js**, **Express.js**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+- **Node.js**, **Express.js**, **GraphQL**
 
 #### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 - **MongoDB**, **MySQL**
 
-#### **Tools & Platforms**  
-- **Git**, **GitHub**, **VS Code**, **Slack**, **Jira**, **Azure DevOps**, **NGINX**, **Figma**
+#### **Version Control & DevOps**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+- **Git**, **GitHub**, **Jira**, **Azure DevOps**, **NGINX**
 
-#### **Other Skills**  
-- **Basic Knowledge**: WordPress, Photoshop, Premiere Pro
+#### **Design & Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+- **Figma**, **VS Code**, **Slack**, **Jira**, **Linux Ubuntu**
 
 ---
 
-### 📂 **Projects**
+### 🚀 **Featured Projects**
 
 #### **Chat Web App**
-- Developed a real-time chat application using **React.js**, **Node.js**, and **MongoDB**.
-- Integrated **Socket.IO** for seamless real-time messaging.
+- **Tech Stack**: **React.js**, **Node.js**, **MongoDB**
+- Developed a real-time messaging platform with **Socket.IO** for instant communication.
+- Integrated a smooth and responsive UI for an improved user experience.
 
 #### **E-Commerce Website**
-- Created a responsive **E-commerce** platform using **JavaScript**, **HTML**, and **CSS**, enabling users to browse and order products efficiently.
-- Optimized the site for mobile responsiveness and user experience.
+- **Tech Stack**: **HTML**, **CSS**, **JavaScript**
+- Built a fully responsive **E-commerce** platform with product search, cart, and order processing features.
 
 #### **Product Inventory Management**
-- Designed an **Admin Dashboard** to manage and view inventory in real-time using **JavaScript**, **HTML**, and **CSS**.
+- **Tech Stack**: **HTML**, **CSS**, **JavaScript**
+- Developed a real-time **Admin Dashboard** for tracking and managing product inventory efficiently.
 
 ---
 
 ### 🎓 **Education**
 
-- **Full Stack MERN Certification** | EdYoda Digital University | _Jan 2023 – Jun 2023_  
-  Score: **89%**
+#### **EdYoda Digital University**  
+_**Full Stack MERN Certification**_  
+**January 2023 – June 2023**  
+Score: **89%**
 
-- **Bachelor of Arts in English** | Muslim Minority Degree College, Bhagalpur | _June 2019 – Apr 2023_  
-  Score: **62%**
+#### **Muslim Minority Degree College, Bhagalpur**  
+_**Bachelor of Arts in English**_  
+**June 2019 – April 2023**  
+Score: **62%**
 
 ---
 
 ### 🏅 **Certifications**
+
 - **Web Development Fundamentals**
 - **React.js Certification**
 - **Placement Readiness Certification**
@@ -80,17 +102,28 @@ _Oct 2023 – Apr 2024_
 ---
 
 ### 📫 **Contact Me**
-- **Email**: [kumaramansagar01@gmail.com](mailto:kumaramansagar01@gmail.com)
-- **Phone**: +91 8434120273
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/kumaramansagar)
-- **GitHub**: [GitHub](https://github.com/kumaramansagar)
+
+- 📧 **Email**: [kumaramansagar01@gmail.com](mailto:kumaramansagar01@gmail.com)
+- 📞 **Phone**: +91 8434120273
+- 🌍 **LinkedIn**: [Kumar Aman Sagar](https://www.linkedin.com/in/kumaramansagar)
+- 🐦 **Twitter**: [@Amansagar1](https://twitter.com/Amansagar1)
+- 💻 **GitHub**: [kumaramansagar](https://github.com/kumaramansagar)
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Stats & Achievements**
 
-![Kumar Aman Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumaramansagar&show_icons=true&theme=radical)
+![Kumar Aman Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumaramansagar&show_icons=true&theme=radical&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaramansagar&langs_count=5&theme=radical)
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out to connect or collaborate.
+### 🧑‍💻 **Let's Collaborate!**
+
+I am always open to collaborating on interesting projects. Feel free to reach out if you want to discuss ideas, share knowledge, or work on open-source contributions together. Thank you for visiting my profile!
+
+---
+
+#### **Github Contributions**
+![Kumar Aman Sagar's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kumaramansagar&theme=react-dark)
