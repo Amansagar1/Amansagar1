@@ -20,21 +20,6 @@ I’m an experienced **Full Stack MERN Developer** with a strong background in *
 - Building a **real-time messaging app** using **Socket.IO** and **React.js**.
 - Enhancing **IoT solutions** to integrate with scalable cloud-based architectures.
 - Exploring **Machine Learning** techniques to improve application intelligence.
-
----
-
-### 💼 **Work Experience**
-
-#### **Software Developer | Digital-Sync Solution or Services**  
-_March 2024 – Present_
-- Developed **scalable solutions** using **microservices** architecture and **API integration**, boosting overall system performance.
-- Worked with cross-functional teams to drive the development of web applications and ensure seamless deployment.
-
-#### **Web Developer Intern | Achintya Solution**  
-_Oct 2023 – Apr 2024_
-- Contributed to the development of 5 real-time projects, enhancing development efficiency by **30%**.
-- Implemented and optimized frontend solutions using **HTML**, **CSS**, and **JavaScript**.
-
 ---
 
 ### 🛠️ **Technologies & Tools**
@@ -77,21 +62,6 @@ _Oct 2023 – Apr 2024_
 - Developed a real-time **Admin Dashboard** for tracking and managing product inventory efficiently.
 
 ---
-
-### 🎓 **Education**
-
-#### **EdYoda Digital University**  
-_**Full Stack MERN Certification**_  
-**January 2023 – June 2023**  
-Score: **89%**
-
-#### **Muslim Minority Degree College, Bhagalpur**  
-_**Bachelor of Arts in English**_  
-**June 2019 – April 2023**  
-Score: **62%**
-
----
-
 ### 🏅 **Certifications**
 
 - **Web Development Fundamentals**
