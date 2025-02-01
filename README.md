@@ -108,22 +108,8 @@ Score: **62%**
 - 🌍 **LinkedIn**: [Kumar Aman Sagar](https://www.linkedin.com/in/kumaramansagar)
 - 🐦 **Twitter**: [@Amansagar1](https://twitter.com/Amansagar1)
 - 💻 **GitHub**: [kumaramansagar](https://github.com/kumaramansagar)
-
----
-
-### 📊 **GitHub Stats & Achievements**
-
-![Kumar Aman Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumaramansagar&show_icons=true&theme=radical&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaramansagar&langs_count=5&theme=radical)
-
 ---
 
 ### 🧑‍💻 **Let's Collaborate!**
-
 I am always open to collaborating on interesting projects. Feel free to reach out if you want to discuss ideas, share knowledge, or work on open-source contributions together. Thank you for visiting my profile!
-
 ---
-
-#### **Github Contributions**
-![Kumar Aman Sagar's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kumaramansagar&theme=react-dark)
