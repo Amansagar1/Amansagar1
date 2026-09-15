@@ -1,12 +1,20 @@
 # Kumar Aman Sagar 👨‍💻
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Available-brightgreen?style=for-the-badge)](https://my-resume-amber-alpha.vercel.app/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Backend%20%7C%20AI%20%7C%20Cloud-blue?style=for-the-badge" />
+</p>
 
-**Full Stack Developer | Backend & AI Application Engineer**
+<p align="center">
+  <a href="https://my-resume-amber-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge" />
+  </a>
+</p>
 
-I’m a **Full Stack Developer with 3+ years of experience** building scalable web applications, REST APIs, backend services, microservices, CRM platforms, and AI-powered applications.
+**Full Stack Developer | Backend Engineer | AI & Cloud**
 
-I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, Docker, CI/CD, and cloud technologies**. I have hands-on experience with **JWT authentication, RBAC, API optimization, database optimization, AI integrations, real-time systems, and production deployments**.
+I’m a **Full Stack Developer with 3+ years of experience** building scalable web applications, backend services, REST APIs, microservices, CRM platforms, and AI-powered applications.
+
+I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, PostgreSQL, Redis, Docker, AWS, and CI/CD**. I have hands-on experience in **JWT authentication, RBAC, API optimization, database optimization, AI/LLM integrations, real-time systems, and cloud deployments**.
 
 ---
 
@@ -15,45 +23,61 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 * Develop scalable full-stack applications using **React.js, Next.js, Node.js, and Python**.
 * Build production-ready **REST APIs and microservices** using **FastAPI and Node.js**.
 * Implement secure authentication and authorization using **JWT and RBAC**.
-* Integrate **AI/LLM APIs and AI-powered automation workflows**.
+* Integrate **AI/LLM APIs** and build AI-powered automation workflows.
 * Design and optimize **MongoDB, MySQL, PostgreSQL, and Redis** workloads.
-* Build real-time applications using **WebSockets, Socket.IO, and Server-Sent Events**.
-* Containerize applications using **Docker** and configure deployments using **Nginx**.
-* Work with **CI/CD pipelines, GitHub Actions, Azure DevOps, and AWS**.
+* Develop real-time applications using **WebSockets, Socket.IO, and Server-Sent Events**.
+* Containerize applications using **Docker**.
+* Deploy and manage applications using **AWS, AWS ECS, and Nginx**.
+* Build **CI/CD pipelines** using GitHub Actions and Azure DevOps.
 * Optimize API performance, database queries, caching, and application architecture.
 
 ---
 
 ### 🌱 **Currently Working On**
 
-* Building scalable **AI-powered applications** using LLM APIs and backend services.
-* Developing **microservices and REST APIs** using Node.js and FastAPI.
+* Building scalable **AI-powered applications** using LLM APIs.
+* Developing backend **microservices using Node.js and FastAPI**.
 * Exploring **RAG, embeddings, vector search, AI agents, and function calling**.
-* Improving cloud-native application deployment using **Docker, AWS, and CI/CD**.
+* Building real-time systems using **WebSockets and Server-Sent Events**.
+* Improving cloud-native deployments using **AWS, Docker, and CI/CD**.
 
 ---
 
-### 🛠️ **Technologies & Tools**
+# 🛠️ **Technologies & Tools**
 
-#### **Frontend**
+## 🎨 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 * **React.js**
 * **Next.js**
 * **TypeScript**
 * **JavaScript ES6+**
-* **React Native**
+* **HTML5**
+* **CSS3**
 * **Tailwind CSS**
 * **Bootstrap**
+* **React Native**
 * **Responsive UI Development**
 
-#### **Backend**
+---
+
+## ⚙️ **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 * **Node.js**
@@ -64,31 +88,43 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 * **Microservices**
 * **JWT Authentication**
 * **RBAC**
+* **API Integration**
 * **WebSockets**
 * **Socket.IO**
 * **Server-Sent Events**
 
-#### **AI & LLM**
+---
+
+## 🤖 **AI & LLM**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-* **OpenAI**
-* **Google Gemini**
-* **Claude**
-* **LLM API Integration**
+* **OpenAI API**
+* **Google Gemini API**
+* **Claude API**
+* **LLM Integration**
 * **RAG Pipelines**
 * **Embeddings**
 * **Vector Search**
 * **AI Agents**
 * **Function Calling**
 * **AI Automation**
+* **Background Workers**
+* **Asynchronous Processing**
 
-#### **Databases**
+---
+
+## 🗄️ **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=redis" />
 </p>
 
 * **MongoDB**
@@ -96,32 +132,47 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 * **PostgreSQL**
 * **Redis**
 * Database Design
+* Schema Design
 * Query Optimization
 * Caching
+* Data Processing
 
-#### **Version Control & DevOps**
+---
+
+## ☁️ **Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+* **AWS**
+* **AWS ECS**
+* **Docker**
+* **GitHub Actions**
+* **CI/CD**
+* **Azure DevOps**
+* **Nginx**
+* **Linux**
+* Containerized Deployments
+* Cloud Deployment
+
+---
+
+## 🔧 **Version Control & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 * **Git**
 * **GitHub**
-* **Docker**
-* **AWS**
-* **AWS ECS**
-* **GitHub Actions**
-* **Azure DevOps**
-* **Nginx**
-* **Linux**
-* **CI/CD**
-
-#### **Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
-
 * **VS Code**
 * **Postman**
 * **Swagger / OpenAPI**
@@ -132,51 +183,72 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 
 ---
 
-### 🚀 **Featured Projects**
+# 🚀 **Featured Projects**
 
-#### **CRM Admin & Franchise Platform**
+## 💼 CRM Admin & Franchise Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,python,fastapi,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 * Developed a scalable CRM platform supporting **Admin, Franchise, Agent, and User workflows**.
-* Implemented **RBAC and JWT authentication** for secure role-based access.
+* Implemented **RBAC and JWT authentication**.
 * Developed REST APIs and reusable backend services.
-* Integrated **AI services** for lead management and communication automation.
+* Integrated AI services for **lead management and communication automation**.
 * Built modular and reusable frontend components.
 * Optimized MongoDB queries and API performance.
 * Containerized services using **Docker**.
 
-#### **Hotel Management & Booking System**
+---
+
+## 🏨 Hotel Management & Booking System
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 
 * Built a full-stack hotel booking platform using **Next.js, Node.js, and MongoDB**.
 * Developed booking, authentication, user, and management APIs.
 * Implemented **Google OAuth authentication**.
-* Achieved approximately **1.8-second page load time** through performance optimization.
+* Optimized application performance with approximately **1.8-second page load time**.
 * Improved SEO and application responsiveness.
-* Deployed the application using **Docker and Nginx**.
+* Deployed using **Docker and Nginx**.
 
-#### **Water Management System**
+---
+
+## 💧 Water Management System
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-* Developed real-time dashboards for monitoring water-management operations.
+* Developed real-time dashboards for water-management operations.
 * Built backend services and dashboard APIs.
 * Developed administrative controls for operational management.
 * Implemented data-processing workflows for monitoring and reporting.
 * Integrated frontend dashboards with backend services.
 
-#### **Real-Time Chat Application**
+---
+
+## 💬 Real-Time Chat Application
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,socketio" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 * Developed a real-time messaging application using **React.js, Node.js, MongoDB, and Socket.IO**.
@@ -186,22 +258,42 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 
 ---
 
-### 💼 **Professional Experience**
+# 💼 **Professional Experience**
 
-#### **Full Stack Developer — I2 Global Virtual Learning Pvt. Ltd.**
+### Full Stack Developer — I2 Global Virtual Learning Pvt. Ltd.
 
 **Nov 2025 – Present**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
 * Developed scalable CRM modules using **Next.js, React, Node.js, and Python**.
 * Built REST APIs for lead management, onboarding, franchise, and user workflows.
 * Implemented **RBAC** for secure multi-role access.
 * Integrated AI platforms including **Digipanda, Ganani AI, and Bolna AI**.
 * Optimized REST APIs and MongoDB queries.
-* Worked with **Docker and GitHub Actions** for CI/CD and production deployments.
+* Worked with **Docker and GitHub Actions** for CI/CD.
+* Contributed to production deployments and application architecture.
 
-#### **Software Developer — Digital-Sync Technologies & Services Pvt. Ltd.**
+---
+
+### Software Developer — Digital-Sync Technologies & Services Pvt. Ltd.
 
 **Feb 2024 – Nov 2025**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 * Developed microservices-based applications using **Next.js and Node.js**.
 * Implemented **JWT authentication and caching mechanisms**.
@@ -209,9 +301,17 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 * Improved the scalability of the **Omni Edgemetio Platform by approximately 25%**.
 * Worked on performance optimization and Dockerized deployments.
 
-#### **Web Developer Intern — Achintya Solution (InfotechBrains) Pvt. Ltd.**
+---
+
+### Web Developer Intern — Achintya Solution (InfotechBrains) Pvt. Ltd.
 
 **Jul 2023 – Feb 2024**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
 
 * Developed frontend applications using **React.js and Next.js**.
 * Integrated REST APIs with frontend applications.
@@ -220,7 +320,7 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 
 ---
 
-### 🏅 **Certifications**
+# 🏅 **Certifications**
 
 * **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
 * **Oracle Fusion AI Agent Studio – Certified Foundations Associate**
@@ -230,7 +330,7 @@ I specialize in **React.js, Next.js, Node.js, Python, FastAPI, MongoDB, MySQL, D
 
 ---
 
-### 🎓 **Education**
+# 🎓 **Education**
 
 **Bachelor of Arts (BA)**
 Muslim Minority Degree College
@@ -240,7 +340,7 @@ EdYoda Digital University
 
 ---
 
-### 📊 **GitHub Stats**
+# 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amansagar1&show_icons=true&theme=github_dark&hide_border=true" height="170" />
@@ -249,7 +349,7 @@ EdYoda Digital University
 
 ---
 
-### 📫 **Contact Me**
+# 📫 **Contact Me**
 
 * 📧 **Email:** [kumaramansagar01@gmail.com](mailto:kumaramansagar01@gmail.com)
 * 📞 **Phone:** +91 8434120273
@@ -259,18 +359,14 @@ EdYoda Digital University
 
 ---
 
-### 🧑‍💻 **Let's Collaborate!**
+# 🧑‍💻 **Let's Collaborate!**
 
-I’m open to opportunities and collaborations involving **Full Stack Development, Backend Engineering, AI Applications, Microservices, Cloud Engineering, and scalable web platforms**.
+I’m open to opportunities and collaborations involving **Full Stack Development, Backend Engineering, AI Applications, Microservices, AWS Cloud, and scalable web platforms**.
 
-Feel free to explore my repositories, connect with me, or collaborate on interesting projects and open-source contributions.
+Feel free to explore my repositories and connect with me for technology discussions, projects, or open-source collaboration.
 
-## **Thanks for visiting my profile!** 🚀
-
-<!--
-### 🔥 Contribution Streak
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amansagar1&theme=github-dark&hide_border=true" />
+  <b>⭐ Thanks for visiting my profile!</b>
 </p>
--->
